@@ -14,8 +14,8 @@ from aiogram.types import (
 #   НАСТРОЙКИ — заполни только это!
 # ═══════════════════════════════════════════
 import os
-BOT_TOKEN = os.environ["BOT_TOKEN"]
-ADMIN_ID   = int(os.environ["ADMIN_ID"])
+BOT_TOKEN = os.environ["8736226584:AAEmNywlassWpIpQEqCPDaxqDLTikREkoFI"]
+ADMIN_ID   = int(os.environ["64775775"])
 
 # ═══════════════════════════════════════════
 #   КАТАЛОГ ПОДАРКОВ
@@ -26,7 +26,7 @@ GIFTS = [
         "id": "gift_6026193266406327981",
         "name": "🎁 Редкий подарок",
         "description": "Нелимитированный подарок, убранный из магазина Telegram. Отправка вручную после оплаты.",
-        "price": 56,
+        "price": 60,
         "emoji": "🎁",
         "available": True,
     },
